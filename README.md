@@ -1,4 +1,4 @@
-# Drive - Pract React.js Site for Car Rental
+# Drive - Practice React.js Site for Car Rental
 
 This was a practice project that was built with React.js & TailwindCss.
 
