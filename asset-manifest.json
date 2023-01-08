@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Drive/static/css/main.f5287bb0.css",
+    "main.js": "/Drive/static/js/main.5f2143c5.js",
+    "static/media/drive.png": "/Drive/static/media/drive.6bd20e182296ea68fb9b.png",
+    "index.html": "/Drive/index.html",
+    "main.f5287bb0.css.map": "/Drive/static/css/main.f5287bb0.css.map",
+    "main.5f2143c5.js.map": "/Drive/static/js/main.5f2143c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5287bb0.css",
+    "static/js/main.5f2143c5.js"
+  ]
+}
